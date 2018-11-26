@@ -1,9 +1,7 @@
 # Croduino NOVA2 Eagle Files
 ## Image
-![Croduino NOVA2 image]
-(https://e-radionica.com/media/catalog/product/d/s/dsc_1544.jpg)
-
-[Croduino NOVA(222067)] (https://e-radionica.com/en/croduino-nova2.html)
+![Croduino NOVA2 image](https://e-radionica.com/media/catalog/product/d/s/dsc_1544.jpg)
+[Croduino NOVA(222067)](https://e-radionica.com/en/croduino-nova2.html)
 
 ## Description and details
 The Croduino NOVA2 is a microcontroller board with the ability to connect to a WiFi network and the Internet! It is based on an already well-known ESP8266 which is otherwise quite complicated to use on its own. With Nova, simply connect the board to USB and start programming your next IoT project. In addition, the microcontroller boards ideally suited for breadboard, which makes prototyping is even faster. Connecting the physical world with the internet has never been easier.
